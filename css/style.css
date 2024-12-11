@@ -1,0 +1,31 @@
+body{
+    background-color: #212529;
+}
+
+/********************************
+         REGOLE HEADER
+*********************************/
+header img{
+    width: 60px;
+}
+
+/* colore link */
+header .nav-link{
+    color: #626568;
+}
+
+/* colore active */
+.navbar-nav .nav-link.active{
+    color: #fff;
+}
+
+/* colore bottone cerca */
+.btn-outline-success{
+    --bs-btn-border-color: #fff;
+    --bs-btn-color: #fff;
+}
+
+/* regole hamburger menu */
+.navbar-toggler{
+    background-color: #fff;
+}
