@@ -14,6 +14,10 @@ header .nav-link{
     color: #626568;
 }
 
+.nav-link:hover{
+    color:#fff
+}
+
 /* colore active */
 .navbar-nav .nav-link.active{
     color: #fff;
